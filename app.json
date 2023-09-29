@@ -35,7 +35,7 @@
 
             "description": "Use Pyrogram String Session",
 
-            "required": true
+            "required": false
 
         },
 
